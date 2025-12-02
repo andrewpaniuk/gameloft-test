@@ -1,0 +1,1 @@
+export { ProductTableWithAction } from './ui/ProductTableWithAction'
